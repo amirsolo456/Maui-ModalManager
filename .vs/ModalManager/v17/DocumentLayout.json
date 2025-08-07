@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Maui-ModalaManager\\ModalManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B82003FC-157C-4702-B817-A913CC7F46AF}|ModalManagerSample\\ModalManagerSample.csproj|d:\\maui-modalamanager\\modalmanager\\modalmanagersample\\modalmanagersample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B82003FC-157C-4702-B817-A913CC7F46AF}|ModalManagerSample\\ModalManagerSample.csproj|solutionrelative:modalmanagersample\\modalmanagersample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725343FF-DD41-4AF0-AF61-AB9E38D11DB8}|ModalManager\\ModalManager.csproj|d:\\maui-modalamanager\\modalmanager\\modalmanager\\services\\modalserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725343FF-DD41-4AF0-AF61-AB9E38D11DB8}|ModalManager\\ModalManager.csproj|solutionrelative:modalmanager\\services\\modalserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{725343FF-DD41-4AF0-AF61-AB9E38D11DB8}|ModalManager\\ModalManager.csproj|d:\\maui-modalamanager\\modalmanager\\modalmanager\\models\\customviewbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{725343FF-DD41-4AF0-AF61-AB9E38D11DB8}|ModalManager\\ModalManager.csproj|solutionrelative:modalmanager\\models\\customviewbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModalManagerSample",
+              "DocumentMoniker": "D:\\Maui-ModalaManager\\ModalManager\\ModalManagerSample\\ModalManagerSample.csproj",
+              "RelativeDocumentMoniker": "ModalManagerSample\\ModalManagerSample.csproj",
+              "ToolTip": "D:\\Maui-ModalaManager\\ModalManager\\ModalManagerSample\\ModalManagerSample.csproj",
+              "RelativeToolTip": "ModalManagerSample\\ModalManagerSample.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T23:59:08.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModalServiceExtensions.cs",
+              "DocumentMoniker": "D:\\Maui-ModalaManager\\ModalManager\\ModalManager\\Services\\ModalServiceExtensions.cs",
+              "RelativeDocumentMoniker": "ModalManager\\Services\\ModalServiceExtensions.cs",
+              "ToolTip": "D:\\Maui-ModalaManager\\ModalManager\\ModalManager\\Services\\ModalServiceExtensions.cs",
+              "RelativeToolTip": "ModalManager\\Services\\ModalServiceExtensions.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvzcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T23:58:56.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomViewBase.cs",
+              "DocumentMoniker": "D:\\Maui-ModalaManager\\ModalManager\\ModalManager\\Models\\CustomViewBase.cs",
+              "RelativeDocumentMoniker": "ModalManager\\Models\\CustomViewBase.cs",
+              "ToolTip": "D:\\Maui-ModalaManager\\ModalManager\\ModalManager\\Models\\CustomViewBase.cs",
+              "RelativeToolTip": "ModalManager\\Models\\CustomViewBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T23:52:25.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

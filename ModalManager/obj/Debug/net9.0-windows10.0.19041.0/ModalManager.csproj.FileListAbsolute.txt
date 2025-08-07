@@ -1,0 +1,16 @@
+D:\Maui-ModalaManager\ModalManager\ModalManager\bin\Debug\net9.0-windows10.0.19041.0\ModalManager.deps.json
+D:\Maui-ModalaManager\ModalManager\ModalManager\bin\Debug\net9.0-windows10.0.19041.0\ModalManager.dll
+D:\Maui-ModalaManager\ModalManager\ModalManager\bin\Debug\net9.0-windows10.0.19041.0\ModalManager.pdb
+D:\Maui-ModalaManager\ModalManager\ModalManager\bin\Debug\net9.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.dll
+D:\Maui-ModalaManager\ModalManager\ModalManager\bin\Debug\net9.0-windows10.0.19041.0\Microsoft.Web.WebView2.Core.Projection.dll
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.csproj.AssemblyReference.cache
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.AssemblyInfoInputs.cache
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.AssemblyInfo.cs
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.csproj.CoreCompileInputs.cache
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\XamlC.stamp
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalMan.77A8375B.Up2Date
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.dll
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\refint\ModalManager.dll
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ModalManager.pdb
+D:\Maui-ModalaManager\ModalManager\ModalManager\obj\Debug\net9.0-windows10.0.19041.0\ref\ModalManager.dll
