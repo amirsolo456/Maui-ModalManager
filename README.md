@@ -1,6 +1,6 @@
 # 🌐 Maui Modal Manager
 
-[🇺🇸 English](#english) | [🇮🇷 فارسی](#فارسی)
+[🇺🇸 English](README-en.md) | [🇮🇷 فارسی](README-fa.md)
 
 ---
 
